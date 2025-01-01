@@ -31,7 +31,7 @@ This project is a responsive **Landing Page** designed for a fictional travel ag
    cd Landing-Page
 
 🌐 Live Demo
-View the live demo ()
+View the live demo (https://nishchalkc89.github.io/Landing-Page/)
 
 ✨ Author
 Nishchal Kc
